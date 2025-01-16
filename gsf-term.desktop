@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=GSF-Term
+Comment=A customizable terminal emulator
+Exec=gsf-term
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=System;TerminalEmulator;GTK;
+Keywords=terminal;shell;command;
+StartupNotify=true
